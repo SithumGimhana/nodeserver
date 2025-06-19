@@ -1,0 +1,24 @@
+{
+  "name": "DevNodeServer",
+  "version": "1.0.0",
+  "description": "Developed By Dev Sithum Gimhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "exceljs": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "mssql": "^10.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.7.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.25"
+  }
+}

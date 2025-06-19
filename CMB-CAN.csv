@@ -1,0 +1,101 @@
+id,name_id,variable,departure,arrival,time,airport_dep,airport_arri,selection
+1,1,"X(1,2)",1:55:00 AM,5:25:00 AM,03h 30m,Colombo(CMB),Dubai Int. (DXB),0
+2,1,"X(1,3)",2:55:00 AM,5:55:00 AM,03h 00m,Colombo(CMB),Dubai Int. (DXB),0
+3,1,"X(1,4)",9:55:00 AM,12:50:00 PM,02h 55m,Colombo(CMB),Dubai Int. (DXB),0
+4,1,"X(1,5)",9:30:00 AM,1:10:00 PM,03h 40m,Colombo(CMB),Dubai Int. (DXB),0
+5,1,"X(1,6)",1:25:00 PM,4:40:00 PM,03h 15m,Colombo(CMB),Dubai Int. (DXB),0
+6,1,"X(1,7)",6:40:00 PM,9:50:00 PM,03h 10m,Colombo(CMB),Dubai Int. (DXB),0
+7,1,"X(1,11)",12:45:00 AM,7:15:00 AM,06h 30m,Colombo(CMB),"Changi, Singapore (SIN)",0
+8,1,"X(1,12)",1:10:00 AM,7:40:00 AM,06h 30m,Colombo(CMB),"Changi, Singapore (SIN)",0
+9,1,"X(1,13)",12:15:00 PM,6:45:00 PM,06h 30m,Colombo(CMB),"Changi, Singapore (SIN)",1
+10,1,"X(1,16)",3:25:00 AM,6:10:00 AM,02h 45m,Colombo(CMB),"Doha, Qatar (DOH)",0
+11,1,"X(1,17)",4:25:00 AM,7:10:00 AM,02h 45m,Colombo(CMB),"Doha, Qatar (DOH)",0
+12,1,"X(1,18)",10:15:00 AM,1:00:00 PM,02h 45m,Colombo(CMB),"Doha, Qatar (DOH)",0
+13,1,"X(1,19)",11:15:00 AM,2:00:00 PM,02h 45m,Colombo(CMB),"Doha, Qatar (DOH)",0
+14,1,"X(1,20)",8:15:00 PM,11:00:00 PM,02h 45m,Colombo(CMB),"Doha, Qatar (DOH)",0
+15,1,"X(1,23)",11:00:00 PM,5:10:00 AM,06h 10m,Colombo(CMB),"Kuala Lumpur, Malaysia (KUL)",0
+16,1,"X(1,24)",12:25:00 AM,6:40:00 AM,06h 15m,Colombo(CMB),"Kuala Lumpur, Malaysia (KUL)",0
+17,1,"X(1,25)",12:40:00 AM,6:55:00 AM,06h 15m,Colombo(CMB),"Kuala Lumpur, Malaysia (KUL)",0
+18,1,"X(1,26)",7:30:00 AM,1:45:00 PM,06h 15m,Colombo(CMB),"Kuala Lumpur, Malaysia (KUL)",0
+19,1,"X(1,27)",10:40:00 AM,4:55:00 PM,06h 15m,Colombo(CMB),"Kuala Lumpur, Malaysia (KUL)",0
+20,1,"X(2,8)",5:25:00 AM,1:55:00 AM,20h 30m,Dubai Int. (DXB),Dubai Int. (DXB),0
+21,1,"X(2,9)",5:25:00 AM,10:50:00 AM,05h 25m,Dubai Int. (DXB),Dubai Int. (DXB),0
+22,1,"X(2,10)",5:25:00 AM,9:10:00 PM,03h 45m,Dubai Int. (DXB),Dubai Int. (DXB),0
+23,1,"X(3,8)",5:55:00 AM,1:55:00 AM,20h 00m,Dubai Int. (DXB),Dubai Int. (DXB),0
+24,1,"X(3,9)",5:55:00 AM,10:50:00 AM,04h 55m,Dubai Int. (DXB),Dubai Int. (DXB),0
+25,1,"X(3,10)",5:55:00 AM,9:10:00 PM,03h 15m,Dubai Int. (DXB),Dubai Int. (DXB),0
+26,1,"X(4,8)",12:50:00 PM,1:55:00 AM,13h 05m,Dubai Int. (DXB),Dubai Int. (DXB),0
+27,1,"X(4,9)",12:50:00 PM,10:50:00 AM,22h 00m,Dubai Int. (DXB),Dubai Int. (DXB),0
+28,1,"X(4,10)",12:50:00 PM,9:10:00 PM,08h 20m,Dubai Int. (DXB),Dubai Int. (DXB),0
+29,1,"X(5,8)",1:10:00 PM,1:55:00 AM,12h 45m,Dubai Int. (DXB),Dubai Int. (DXB),0
+30,1,"X(5,9)",1:10:00 PM,10:50:00 AM,21h 40m,Dubai Int. (DXB),Dubai Int. (DXB),0
+31,1,"X(5,10)",1:10:00 PM,9:10:00 PM,08h 00m,Dubai Int. (DXB),Dubai Int. (DXB),0
+32,1,"X(6,8)",4:40:00 PM,1:55:00 AM,09h 15m,Dubai Int. (DXB),Dubai Int. (DXB),0
+33,1,"X(6,9)",4:40:00 PM,10:50:00 AM,18h 10m,Dubai Int. (DXB),Dubai Int. (DXB),0
+34,1,"X(6,10)",4:40:00 PM,9:10:00 PM,04h 30m,Dubai Int. (DXB),Dubai Int. (DXB),0
+35,1,"X(7,8)",9:50:00 PM,1:55:00 AM,04h 05m,Dubai Int. (DXB),Dubai Int. (DXB),0
+36,1,"X(7,9)",9:50:00 PM,10:50:00 AM,13h 00m,Dubai Int. (DXB),Dubai Int. (DXB),0
+37,1,"X(7,10)",9:50:00 PM,9:10:00 PM,23h 20m,Dubai Int. (DXB),Dubai Int. (DXB),0
+38,1,"X(11,15)",7:15:00 AM,9:15:00 PM,02h 00m,"Changi, Singapore (SIN)","Changi, Singapore (SIN)",0
+39,1,"X(12,15)",7:40:00 AM,9:15:00 PM,01h 35m,"Changi, Singapore (SIN)","Changi, Singapore (SIN)",0
+40,1,"X(13,15)",6:45:00 PM,9:15:00 PM,02h 30m,"Changi, Singapore (SIN)","Changi, Singapore (SIN)",1
+41,1,"X(13,14)",6:45:00 PM,8:05:00 AM,13h 20m,"Changi, Singapore (SIN)","Changi, Singapore (SIN)",0
+42,1,"X(16,21)",6:10:00 AM,2:10:00 AM,20h 00m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+43,1,"X(16,22)",6:10:00 AM,2:40:00 AM,20h 30m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+44,1,"X(17,21)",7:10:00 AM,2:10:00 AM,19h 00m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+45,1,"X(17,22)",7:10:00 AM,2:40:00 AM,19h 30m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+46,1,"X(18,21)",1:00:00 PM,2:10:00 AM,13h 10m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+47,1,"X(18,22)",1:00:00 PM,2:40:00 AM,13h 40m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+48,1,"X(19,21)",2:00:00 PM,2:10:00 AM,12h 10m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+49,1,"X(19,22)",2:00:00 PM,2:40:00 AM,12h 40m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+50,1,"X(20,21)",11:00:00 PM,2:10:00 AM,03h 10m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+51,1,"X(20,22)",11:00:00 PM,2:40:00 AM,03h 40m,"Doha, Qatar (DOH)","Doha, Qatar (DOH)",0
+52,1,"X(23,30)",5:10:00 AM,8:50:00 AM,03h 40m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+53,1,"X(23,31)",5:10:00 AM,1:35:00 PM,08h 25m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+54,1,"X(23,32)",5:10:00 AM,4:10:00 PM,11h 00m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+55,1,"X(23,33)",5:10:00 AM,6:00:00 PM,12h 50m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+56,1,"X(23,34)",5:10:00 AM,8:15:00 PM,03h 05m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+57,1,"X(23,28)",5:10:00 AM,12:40:00 AM,19h 30m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+58,1,"X(23,29)",5:10:00 AM,5:10:00 AM,12h 00m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+59,1,"X(24,30)",6:40:00 AM,8:50:00 AM,02h 10m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+60,1,"X(24,31)",6:40:00 AM,1:35:00 PM,06h 55m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+61,1,"X(24,32)",6:40:00 AM,4:10:00 PM,09h 30m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+62,1,"X(24,33)",6:40:00 AM,6:00:00 PM,11h 20m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+63,1,"X(24,34)",6:40:00 AM,8:15:00 PM,01h 35m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+64,1,"X(24,28)",6:40:00 AM,12:40:00 AM,18h 00m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+65,1,"X(24,29)",6:40:00 AM,5:10:00 AM,22h 30m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+66,1,"X(25,30)",6:55:00 AM,8:50:00 AM,01h 55m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+67,1,"X(25,31)",6:55:00 AM,1:35:00 PM,06h 40m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+68,1,"X(25,32)",6:55:00 AM,4:10:00 PM,09h 15m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+69,1,"X(25,33)",6:55:00 AM,6:00:00 PM,11h 05m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+70,1,"X(25,34)",6:55:00 AM,8:15:00 PM,01h 20m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+71,1,"X(25,28)",6:55:00 AM,12:40:00 AM,19h 45m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+72,1,"X(25,29)",6:55:00 AM,5:10:00 AM,22h 15m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+73,1,"X(26,32)",1:45:00 PM,4:10:00 PM,02h 25m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+74,1,"X(26,33)",1:45:00 PM,6:00:00 PM,04h 15m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+75,1,"X(26,34)",1:45:00 PM,8:15:00 PM,06h 30m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+76,1,"X(26,28)",1:45:00 PM,12:40:00 AM,10h 55m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+77,1,"X(26,29)",1:45:00 PM,5:10:00 AM,15h 25m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+78,1,"X(26,30)",1:45:00 PM,8:50:00 AM,19h 05m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+79,1,"X(26,31)",1:45:00 PM,1:35:00 PM,23h 50m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+80,1,"X(27,33)",4:55:00 PM,6:00:00 PM,01h 05m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+81,1,"X(27,34)",4:55:00 PM,8:15:00 PM,03h 20m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+82,1,"X(27,28)",4:55:00 PM,12:40:00 AM,07h 45m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+83,1,"X(27,29)",4:55:00 PM,5:10:00 AM,12h 15m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+84,1,"X(27,30)",4:55:00 PM,8:50:00 AM,15h 55m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+85,1,"X(27,31)",4:55:00 PM,1:35:00 PM,20h 40m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+86,1,"X(27,32)",4:55:00 PM,4:10:00 PM,23h 15m,"Kuala Lumpur, Malaysia (KUL)","Kuala Lumpur, Malaysia (KUL)",0
+87,1,"X(8,35)",1:55:00 AM,12:50:00 PM,10h 55m,Dubai Int. (DXB),"Guangzhou, China (CAN)",0
+88,1,"X(9,35)",10:50:00 AM,9:45:00 PM,10h 55m,Dubai Int. (DXB),"Guangzhou, China (CAN)",0
+89,1,"X(10,35)",9:10:00 PM,7:55:00 AM,10h 45m,Dubai Int. (DXB),"Guangzhou, China (CAN)",0
+90,1,"X(14,35)",8:05:00 AM,12:10:00 PM,04h 05m,"Changi, Singapore (SIN)","Guangzhou, China (CAN)",0
+91,1,"X(15,35)",9:15:00 PM,1:20:00 AM,04h 05m,"Changi, Singapore (SIN)","Guangzhou, China (CAN)",1
+92,1,"X(21,35)",2:10:00 AM,2:25:00 PM,12h 15m,"Doha, Qatar (DOH)","Guangzhou, China (CAN)",0
+93,1,"X(22,35)",2:40:00 AM,2:50:00 PM,12h 10m,"Doha, Qatar (DOH)","Guangzhou, China (CAN)",0
+94,1,"X(28,35)",12:40:00 AM,4:50:00 AM,04h 10m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+95,1,"X(29,35)",5:10:00 AM,9:20:00 AM,04h 10m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+96,1,"X(30,35)",8:50:00 AM,12:45:00 PM,03h 55m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+97,1,"X(31,35)",1:35:00 PM,5:40:00 PM,04h 05m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+98,1,"X(32,35)",4:10:00 PM,8:20:00 PM,04h 10m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+99,1,"X(33,35)",6:00:00 PM,10:05:00 PM,04h 05m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
+100,1,"X(34,35)",8:15:00 PM,12:30:00 AM,04h 15m,"Kuala Lumpur, Malaysia (KUL)","Guangzhou, China (CAN)",0
